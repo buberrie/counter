@@ -1,1 +1,1 @@
-# counter
+# javaScript/counter
